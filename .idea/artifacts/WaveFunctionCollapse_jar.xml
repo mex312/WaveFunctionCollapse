@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WaveFunctionCollapse:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WaveFunctionCollapse_jar</output-path>
+    <root id="archive" name="WaveFunctionCollapse.jar">
+      <element id="module-output" name="WaveFunctionCollapse" />
+    </root>
+  </artifact>
+</component>
